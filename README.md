@@ -2,7 +2,8 @@
 Data Science Final Project information 
 
 Am thinking of doing RFM analysis for this dataset and create a unsupervised machiane learning Model
-Step1: DO EDA and understand the dataset
+Step1: DO EDA and understand the dataset	
+
 Step2: Create problem statement
 Step2: RFM Analysis, creating the RFM Score for the given dataset 
 Step3: With RFM Score do the customer segmentaion process
